@@ -1,0 +1,4 @@
+[06-Feb-2024 19:45:16 UTC] PHP Fatal error:  Uncaught Error: Class 'SiteOrigin_Widget' not found in /home/intellidt2014/public_html/iconnbc/wp-content/plugins/so-widgets-bundle/widgets/image-grid/image-grid.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/iconnbc/wp-content/plugins/so-widgets-bundle/widgets/image-grid/image-grid.php on line 10

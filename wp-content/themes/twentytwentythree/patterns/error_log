@@ -1,0 +1,4 @@
+[11-Jan-2025 18:32:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /home/intellidt2014/public_html/iconnbc/wp-content/themes/twentytwentythree/patterns/hidden-404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/iconnbc/wp-content/themes/twentytwentythree/patterns/hidden-404.php on line 13

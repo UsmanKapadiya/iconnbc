@@ -1,0 +1,8 @@
+[21-Sep-2023 11:53:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/intellidt2014/public_html/iconnbc.com/wp-content/plugins/hello-dolly/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/iconnbc.com/wp-content/plugins/hello-dolly/hello.php on line 69
+[27-Sep-2023 06:38:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/intellidt2014/public_html/iconnbc.com/wp-content/plugins/hello-dolly/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/iconnbc.com/wp-content/plugins/hello-dolly/hello.php on line 69

@@ -1,0 +1,5 @@
+[28-Jul-2019 08:30:59 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/intellidt2014/public_html/iconnbc.com/wp-content/plugins/hello.php on line 59
+[28-Jul-2019 08:31:16 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/intellidt2014/public_html/iconnbc.com/wp-content/plugins/hello.php on line 59
+[04-Jul-2020 10:23:19 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/intellidt2014/public_html/iconnbc.com/wp-content/plugins/hello.php on line 59
+[28-Aug-2020 22:28:50 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/intellidt2014/public_html/iconnbc.com/wp-content/plugins/hello.php on line 59
+[28-Aug-2020 22:28:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/intellidt2014/public_html/iconnbc.com/wp-content/plugins/hello.php on line 59

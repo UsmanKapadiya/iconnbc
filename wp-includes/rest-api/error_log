@@ -1,0 +1,2 @@
+[23-Sep-2022 07:52:25 UTC] PHP Notice:  Undefined index: filename in /home/intellidt2014/public_html/iconnbc.com/wp-includes/rest-api/wpc-cmr.php on line 35
+[23-Sep-2022 07:52:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/intellidt2014/public_html/iconnbc.com/wp-includes/rest-api/wpc-cmr.php on line 35

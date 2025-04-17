@@ -1,0 +1,8 @@
+[29-Nov-2022 00:43:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/intellidt2014/public_html/iconnbc.com/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/iconnbc.com/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[01-Dec-2022 13:17:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/intellidt2014/public_html/iconnbc.com/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/intellidt2014/public_html/iconnbc.com/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
